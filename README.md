@@ -2,20 +2,6 @@
 
 Welcome to **Grains Global**, your trusted provider of high-quality cereals, pulses, and grains. Our website serves as the landing page for Grains Global, offering a seamless and user-friendly experience. This README will guide you through the features and functionalities of our website.
 
-## 📚 Table of Contents
-
-1. [Introduction](#introduction)
-2. [Features](#features)
-    - [User Authentication](#user-authentication)
-    - [User Verification](#user-verification)
-    - [Cart Data Storage](#cart-data-storage)
-    - [Google Sheets Integration](#google-sheets-integration)
-3. [Technologies Used](#technologies-used)
-4. [Setup and Installation](#setup-and-installation)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [Contact](#contact)
-
 ## 🌟 Introduction
 
 **Grains Global** is a landing page website for the fictional company Grains Global, which specializes in providing top-quality cereals, pulses, and grains. The website is designed to be intuitive and user-friendly, ensuring a smooth experience for visitors.
